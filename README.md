@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**arminthon/arminthon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 درباره من
+سلام! من **آرمین** هستم. در حال حاضر مسیر یادگیری برنامه‌نویسی پایتون رو طی می‌کنم و به حوزه‌ی **داده و اتوماسیون** خیلی علاقه دارم. 
 
-Here are some ideas to get you started:
+هدفم اینه که با پایتون بتونم مسائل واقعی رو حل کنم و کارهای تکراری رو هوشمندانه خودکار کنم.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 ابزارهایی که دارم یاد می‌گیرم
+- **Python:** تمرکز روی مفاهیم پایه، کار با فایل‌ها و اسکریپت‌نویسی.
+- **Git/GitHub:** مدیریت نسخه‌های کد و همکاری در پروژه‌ها.
+- **Data Processing:** کار با داده‌های ساختاریافته (CSV).
+
+## 💬 بیا با هم در ارتباط باشیم!
+خوشحال می‌شم اگه پروژه‌هام رو ببینید یا اگر پیشنهادی برای بهبود کدهام دارید، با هم در ارتباط باشیم.
+- [لینکدین من](لینکِ_پروفایل_لینکدینت_رو_اینجا_بذار)
