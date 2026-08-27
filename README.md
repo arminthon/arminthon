@@ -1,5 +1,3 @@
-markdown
-
 # Hi there! 👋
 
 ## 🚀 درباره من
